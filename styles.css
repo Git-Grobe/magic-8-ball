@@ -1,5 +1,5 @@
 .page {
-  max-width: 960px;
+  max-width: 460px;
   min-width: 300px;
   margin: 0 auto;
 }
@@ -39,7 +39,7 @@ position: relative;
   margin: 0;
   position: absolute;
   top: 38%;
-  left: 46%;
+  left: 44.39%;
   width: 11%;
   font-size: 80%;
 }
