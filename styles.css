@@ -1,4 +1,3 @@
-@media only screen and (max-width: 500px) {
 .page {
   max-width: 460px;
   min-width: 300px;
@@ -63,5 +62,4 @@ footer p {
   text-transform: uppercase;
   font-size: 12px;
   font-size: .75em;
-}
 }
